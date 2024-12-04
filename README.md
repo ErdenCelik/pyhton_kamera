@@ -8,7 +8,7 @@
 ## Kurulum
 ```bash
 # Gerekli paketleri yükle
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## Kullanım
